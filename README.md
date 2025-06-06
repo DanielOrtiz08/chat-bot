@@ -33,8 +33,3 @@ This application is configured for easy deployment to Netlify:
 2. Connect the repository to Netlify
 3. Set the OPENAI_API_KEY environment variable in Netlify settings
 4. Deploy!
-
-## License
-
-MIT# chat-bot
-# chat-bot
